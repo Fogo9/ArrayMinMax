@@ -1,26 +1,24 @@
 # **ARRAYS MIN AND MAX VALUE**
 
-# Information
+## INFORMATION
 
 * **Program that finds the smallest and largest number close to the entered number.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variable **int** is defined.
 
 * Scanner and arrays classes are defined.
 
-* Minimum and maximum values ​​are assigned to the list.
+* Minimum and maximum values are assigned to the list.
 
-* Values ​​close to the number entered with the for loop are found as the largest and smallest.
+* Values close to the number entered with the for loop are found as the largest and smallest.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -93,13 +91,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ArrayMinMax.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
